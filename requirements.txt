@@ -1,0 +1,10 @@
+faiss-cpu==1.10.0
+fastapi==0.115.10
+langchain==0.3.19
+langchain-community==0.3.19
+llama-index==0.12.21
+openai==1.65.1
+python-dotenv==1.0.1
+sentence-transformers==3.4.1
+unstructured==0.16.23
+uvicorn==0.34.0
